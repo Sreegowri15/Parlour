@@ -35,7 +35,8 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot (12)](https://user-images.githubusercontent.com/85351710/217597488-b91b7689-5da3-49ff-a789-6e0f92953939.png)
+![Screenshot (12)](https://user![Screenshot (13)](https://user-images.githubusercontent.com/85351710/217600048-83aeb36b-fc9c-45bd-b750-cf39529aa798.png)
+-images.githubusercontent.com/85351710/217597488-b91b7689-5da3-49ff-a789-6e0f92953939.png)
 
 
 ## Tech Stack 💻
