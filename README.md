@@ -9,6 +9,9 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://purple-water-07530cf00.2.azurestaticapps.net/
 **project demo video link**
 
+## Azure technologiesused for Project
+-Static web apps
+-Health bot
 
 ## Features and Functionalities 😃
 
