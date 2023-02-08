@@ -8,23 +8,22 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://purple-water-07530cf00.2.azurestaticapps.net/
 **project demo video link**
 
-## Azure technologiesused for Project
-- Static web apps
-- Health bot
+## Features and Functionalities
 
-## Features and Functionalities 😃
-
-- Interactive and responsive UI.
+- An interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
+## Azure technologiesused for Project
+- Static web apps
+- Health bot
+
 ## Screenshots
 
  
-
    
 ![Screenshot (11)](https://user-images.githubusercontent.com/85351710/217597453-61052356-ae0f-41de-a217-bee56f8af60d.png)
 
