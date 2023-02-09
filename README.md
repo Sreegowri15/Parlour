@@ -30,7 +30,7 @@ This is a web based application developed for health related website in india
 
 ## Screenshots
 
-   
+- Home 
 ![Screenshot (11)](https://user-images.githubusercontent.com/85351710/217597453-61052356-ae0f-41de-a217-bee56f8af60d.png)
 
 
