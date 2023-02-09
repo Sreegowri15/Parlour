@@ -22,9 +22,14 @@ This is a web based application developed for health related website in india
 - Static web apps
 - Health bot
 
+## Tech Stack
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- JavaScript
+
 ## Screenshots
 
- 
    
 ![Screenshot (11)](https://user-images.githubusercontent.com/85351710/217597453-61052356-ae0f-41de-a217-bee56f8af60d.png)
 
@@ -32,18 +37,8 @@ This is a web based application developed for health related website in india
 ### About Us 
 
 
-
 ![Screenshot (12)](https://user-images.githubusercontent.com/85351710/217600432-2a790a4d-cedc-47fa-bd45-b005247b80b5.png)
 
 
 
-
 ![Screenshot (14)](https://user-images.githubusercontent.com/85351710/217709478-767d52e2-2a0e-4e6c-8806-2358960faf81.png)
-
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- JavaScript
