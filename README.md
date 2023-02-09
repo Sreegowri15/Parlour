@@ -6,7 +6,8 @@ This is a web based application developed for health related website in india
 
 
 **Project Link** - https://purple-water-07530cf00.2.azurestaticapps.net/
-**project demo video link**
+
+**project demo video link**. -
 
 ## Features and Functionalities
 
